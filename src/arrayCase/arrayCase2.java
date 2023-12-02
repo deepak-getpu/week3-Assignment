@@ -4,7 +4,7 @@ public class arrayCase2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+// The test program: 
 		
 		String firstName = "Mary";
 		String lastName = "Brown";
